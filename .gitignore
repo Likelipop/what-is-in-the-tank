@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pt
+*.onnx
+.DS_Store
+data/reports/*.csv
+training/dataset/*
